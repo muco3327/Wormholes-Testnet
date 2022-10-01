@@ -28,8 +28,10 @@ wget -O wormholes.sh https://raw.githubusercontent.com/thisislexar/Wormholes-Tes
 
 ![image](https://user-images.githubusercontent.com/101462877/193395770-401fa358-a549-4198-b902-f0635a71fd21.png)
 
-## Bu kısımda bizden private key isteyecek, aşağıdaki görsellerde nasıl bulacağınızı anlatıyorum. BAŞINDA `0X` OLMADAN yapıştıracağız.
+## Bu kısımda bizden private key isteyecek, aşağıdaki görsellerde nasıl bulacağınızı anlatıyorum.
+
 ## Daha öncesinde testnete başvururken cüzdan açtığımız [Limino](https://www.limino.com/)'ya gidiyoruz. Sol üstteki yoncaya tıklıyoruz.
+
 ![image](https://user-images.githubusercontent.com/101462877/193395813-1cfd2679-d221-46db-8673-7aa065e916b0.png)
 
 ## Settings'e tıklıyoruz.
@@ -46,12 +48,12 @@ wget -O wormholes.sh https://raw.githubusercontent.com/thisislexar/Wormholes-Tes
 
 ![image](https://user-images.githubusercontent.com/101462877/193395899-9500ebef-470b-4e25-9e99-6f8f447a3275.png)
 
-## BAŞINDA `0X` OLMADAN Private key'imizi kopyalıyoruz.
+## Private key'imizi kopyalıyoruz.
 ![image](https://user-images.githubusercontent.com/101462877/193395922-45ec2958-b1bc-40b2-be4b-a800c9e8a7f2.png)
 
 
 
-# BAŞINDA `0X` OLMADAN YAPIŞTIRIYORUZ.
+# Private key'i terminale yapıştırıyoruz.
 ![image](https://user-images.githubusercontent.com/101462877/193396169-2498e943-bc68-419e-8995-8af7ab48e8d6.png)
 
 
