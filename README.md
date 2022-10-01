@@ -79,4 +79,38 @@ Node bilginizi geliştirmek adına dilerseniz orijinal doküman üzerinden [Manu
 
 ![image](https://user-images.githubusercontent.com/101462877/193396623-6e8753f8-7b34-487b-a597-b0b505d88120.png)
 
+
+
+# Node kontrol komutları
+
+## Node bağlantısı
+
+```
+curl -X POST -H 'Content-Type:application/json' --data '{"jsonrpc":"2.0","method":"net_peerCount","id":1}' http://127.0.0.1:8545
+```
+
+
+## Blok kontrolü
+
+```
+curl -X POST -H 'Content-Type:application/json' --data '{"jsonrpc":"2.0","method":"eth_blockNumber","id":1}' http://127.0.0.1:8545
+```
+
+## Cüzdan bakiyesi
+
+```
+curl -X POST -H 'Content-Type:application/json' --data '{"jsonrpc":"2.0","method":"eth_getBalance","params":["<CÜZDANADRESİ>","pending"],"id":1}' http://127.0.0.1:8545
+```
+## Node görüntüleme
+
+```
+wget -O nodemonitoring.sh https://raw.githubusercontent.com/thisislexar/Wormholes-Testnet/main/nodemonitoring.sh && chmod +x nodemonitoring.sh && ./nodemonitoring.sh
+```
+
+![image](https://user-images.githubusercontent.com/101462877/193398815-6cc3f19e-2d24-4bd0-b5e8-2de93a20e83a.png)
+
+
 # Sorularınız olursa: [LossNode Chat](https://t.me/LossNode)
+
+
+
