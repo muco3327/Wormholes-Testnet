@@ -28,7 +28,7 @@ wget -O wormholes.sh https://raw.githubusercontent.com/thisislexar/Wormholes-Tes
 ## Daha öncesinde kurduysanız ve güncelleme yapacaksanız bu kısımda `y`'ye basın.
 ![image](https://user-images.githubusercontent.com/101462877/193442332-35663e38-b861-4a70-b605-9421dbe4a95f.png)
 
-## Ardından [1a](https://github.com/thisislexar/Wormholes-Testnet#1a-script-ile-kurulum) kısmında gösterdiğim gibi `private key`'inizi bularak terminale yapıştırın.
+## Ardından [1a](https://github.com/thisislexar/Wormholes-Testnet/blob/main/README.md#1a-script-ile-kurulum) kısmında gösterdiğim gibi `private key`'inizi bularak terminale yapıştırın.
 
 ![image](https://user-images.githubusercontent.com/101462877/193442410-34ae281a-0c7f-40da-892c-d6b16c2e125c.png)
   
