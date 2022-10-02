@@ -20,6 +20,18 @@ NODE TİPİ | CPU     | RAM      | SSD     |
 - [Twitter](https://twitter.com/WormholesChain)
 - [Discord](https://discord.gg/rDHc4XHrjQ)
 
+# 0) Güncelleme için.
+```
+wget -O wormholes.sh https://raw.githubusercontent.com/thisislexar/Wormholes-Testnet/main/wormholes.sh && chmod +x wormholes.sh && ./wormholes.sh
+```
+
+## Daha öncesinde kurduysanız ve güncelleme yapacaksanız bu kısımda `y`'ye basın.
+![image](https://user-images.githubusercontent.com/101462877/193442332-35663e38-b861-4a70-b605-9421dbe4a95f.png)
+
+## Ardından [1a](https://github.com/thisislexar/Wormholes-Testnet#1a-script-ile-kurulum) kısmında gösterdiğim gibi `private key`'inizi bularak terminale yapıştırın.
+
+![image](https://user-images.githubusercontent.com/101462877/193442410-34ae281a-0c7f-40da-892c-d6b16c2e125c.png)
+
 # 1a) Script ile kurulum.
 
 ```
@@ -67,7 +79,7 @@ Node bilginizi geliştirmek adına dilerseniz orijinal doküman üzerinden [Manu
 
 ![image](https://user-images.githubusercontent.com/101462877/193396221-3310f74b-5894-4f42-9bdd-4a095587495c.png)
 
-## `Become a validator`e tıklıyoruz.
+## `Become a validator`'e tıklıyoruz.
 ![image](https://user-images.githubusercontent.com/101462877/193396254-df8fe754-9ab9-45b9-9284-8228e7f3614e.png)
 
 ## Confirm diyoruz.
