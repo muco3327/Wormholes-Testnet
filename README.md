@@ -31,6 +31,8 @@ wget -O wormholes.sh https://raw.githubusercontent.com/thisislexar/Wormholes-Tes
 ## Ardından [1a](https://github.com/thisislexar/Wormholes-Testnet#1a-script-ile-kurulum) kısmında gösterdiğim gibi `private key`'inizi bularak terminale yapıştırın.
 
 ![image](https://user-images.githubusercontent.com/101462877/193442410-34ae281a-0c7f-40da-892c-d6b16c2e125c.png)
+  
+## GÜNCELLEME BİTTİ AŞAĞIYA DEVAM ETMEYİN.
 
 # 1a) Script ile kurulum.
 
