@@ -73,7 +73,7 @@ wget -O wormholes.sh https://raw.githubusercontent.com/thisislexar/Wormholes-Tes
 
 # 1b) Manuel kurulum.
 
-Node bilginizi geliştirmek adına dilerseniz orijinal doküman üzerinden [Manuel Kurulum](https://www.wormholes.com/docs/Install/run/index.html#spin-up-your-own-wormholes-node) da yapabilirsiniz. Çok da zor değil, script'i kendileri vermişler.
+Node bilginizi geliştirmek adına dilerseniz orijinal doküman üzerinden [Manuel Kurulum]([https://www.wormholes.com/docs/Install/run/index.html#spin-up-your-own-wormholes-node](https://www.wormholes.com/docs/install/run/local/index.html)) da yapabilirsiniz. Çok da zor değil, script'i kendileri vermişler.
 
 # 2) Node'u kurduktan sonra staking ile devam ediyoruz.
 
